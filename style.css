@@ -1,0 +1,107 @@
+*
+{margin: 0;
+padding: 5px;
+box-sizing: border-box;
+font-family: Arial}
+body
+{background-color: #dedede;}
+header
+{height: 70px;
+width: 100%;
+background-color: rgba(0,0,0,0.8);
+padding: 5px;
+margin-bottom: 10px;
+}
+.logo
+{height: 50px;
+width: 50px;
+border-radius: 50%;
+background-color: #fff;
+}
+.logo h1
+{text-align: center;
+font-family: Agency FB}
+.lgin
+{float: right;
+width: 30%;
+margin-top:-50px;
+padding: 5px;}
+.lgin button
+{width: 120px;
+border: none;
+height: 50px;
+background-color: red;
+position: relative;
+color: #fff;
+font-size: 20px;
+border-radius: 13px;
+cursor: pointer;}
+.coll
+{float: left;
+width: 70%;
+background-color: #fff;}
+.colr
+{float: right;
+width: 30%;
+background-color: #dfdf;
+padding: 5px;
+text-align: center;}
+.coll .post1
+{float: left;
+width: 50%;}
+.coll .post2
+{float: right;
+width: 50%;}
+.coll .post1 img
+{width: 70%;
+height: 350px;}
+.coll .post2 img
+{width: 70%;
+height: 350px;}
+.coll .post3
+{float: left;
+width: 50%;}
+.coll .post4
+{float: right;
+width: 50%;}
+.coll .post3 img
+{width: 70%;
+height: 350px;}
+.coll .post4 img
+{width: 70%;
+height: 350px;}
+.coll .post5
+{float: left;
+width: 50%;}
+.coll .post6
+{float: right;
+width: 50%;}
+.coll .post5 img
+{width: 70%;
+height: 350px;}
+.coll .post6 img
+{width: 70%;
+height: 350px;}
+.coll
+{text-align: center;}
+.coll button
+{border: none;
+background-color: #0051ff;
+color: #fff;
+font-size: 12px;
+border-radius: 8px;
+cursor: pointer;
+height: 30px;
+width: 120px;
+outline: none;}
+.sd1
+{background-color: #fff;}
+.colr img
+{cursor: pointer;}
+.footer
+{height: 200px;
+background-color: #fff;}
+a
+{text-decoration: none;
+color: #fff;
+font-size: 13px;}
